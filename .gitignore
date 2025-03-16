@@ -4,5 +4,6 @@
 /*.pt
 /classic
 /inference
+/inference-vk
 /quantize
 *.bin
